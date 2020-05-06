@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>Geongon Lee</title>
+		<meta charset="utf-8">
+		<link href="styles.css" rel="stylesheet">
+
+	</head>
+
+	<body>
+		<h1>Geongon Lee</h1>
+
+		<div id="menu">
+			<div id="home">
+				<a href="#"><b>Home</b></a>
+			</div>
+			<div id="about">
+				<a href="about.html">About</a>
+			</div>
+			<div id="work">
+				<a href="work.html">Work</a>
+			</div>
+			<div id="text">
+				<a href="text.html">Text</a>
+			</div>
+		</div>
+
+		<img src="images/15.jpg" width="600">
+
+	</body>
+</html>
